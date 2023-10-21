@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielledo1/)
 
 
-![Gabriel Ledo GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLedo&show_icons=true&theme=gruvbox)
+![Gabriel Ledo GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLedo&show_icons=true&theme=holi)
 
 
 ### Technology I currently use most
